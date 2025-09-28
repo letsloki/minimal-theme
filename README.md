@@ -1,8 +1,8 @@
-![minimal-theme@2x](https://github.com/user-attachments/assets/3758a87b-84d9-4556-9f06-31632762e690)
-![minimal-theme-window@2x](https://github.com/user-attachments/assets/1ffab3b3-958c-493b-bff4-06be51438642)
+![minimal-theme-window@2x](https://github.com/user-attachments/assets/c6259dd4-80a1-4b17-b472-dcc1da8d09fa)
 
+# Loki Minimal Theme
 
-# Godot Minimal Theme
+Fork of [Godot Minimal Theme](https://github.com/passivestar/godot-minimal-theme).
 
 ## Installation
 
